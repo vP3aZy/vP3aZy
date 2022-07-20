@@ -4,7 +4,7 @@ Discord: <b>[vP3aZy#8204](https://dsc.bio/yourpeaz)</b>
 
 XBOX-Live: <b>[YourPeaZOnYT](https://account.xbox.com/de-de/Profile?gamerTag=Aromastoffe)</b>
 
-YouTube: <b>[YourPeaZ](XBOX-Live: <b>[YourPeaZOnYT](https://www.youtube.com/channel/UCmtqcizQ0NHMJFKgECiaVWw)<b>
+YouTube: <b>[YourPeaZ](https://www.youtube.com/channel/UCmtqcizQ0NHMJFKgECiaVWw)<b>
 
 ### My tools
 <img alt="PhpStorm" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" width="50" height="50"></img>
@@ -17,7 +17,7 @@ YouTube: <b>[YourPeaZ](XBOX-Live: <b>[YourPeaZOnYT](https://www.youtube.com/chan
 <!-- <img alt="" src="" width="50" height="50"></img> -->
 
 
-![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=xxAROX&hide=shell)
+![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=vP3aZy&hide=shell)
 
 
 
